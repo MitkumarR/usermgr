@@ -20,7 +20,7 @@ git clone https://github.com/MitkumarR/usermgr.git
 
 Install:
 ```bash
-cd UserMgmtTool
+cd usermgr
 sudo ./install.sh
 ```
 
