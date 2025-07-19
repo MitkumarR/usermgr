@@ -1,0 +1,9 @@
+[2025-07-19 03:41:31] CREATE krutarth SUCCESS User created successfully
+[2025-07-19 03:41:41] LIST ALL INFO Listed all users with account status
+[2025-07-19 03:41:57] LOCK krutarth SUCCESS User locked
+[2025-07-19 03:42:15] UNLOCK krutarth SUCCESS User unlocked
+[2025-07-19 03:42:26] CHECK krutarth FOUND User exists
+[2025-07-19 03:42:45] CHECK mahek NOT_FOUND User does not exist
+[2025-07-19 03:43:05] RESET_PWD krutarth SUCCESS Password reset
+[2025-07-19 03:43:24] DELETE krutarth SUCCESS User deleted
+[2025-07-19 03:49:37] LIST ALL INFO Listed all users with account status
